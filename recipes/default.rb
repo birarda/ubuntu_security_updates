@@ -10,7 +10,7 @@ package 'unattended-upgrades'
 
 template '/etc/apt/apt.conf.d/10periodic' do
   source '10periodic.erb'
-  owner root
-  group root
+  owner 'root'
+  group 'root'
   mode 0644
 end
