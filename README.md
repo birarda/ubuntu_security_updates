@@ -1,12 +1,1 @@
-Description
-===========
-
-Requirements
-============
-
-Attributes
-==========
-
-Usage
-=====
-
+Cookbook for Opscode Chef that provides an Ubuntu install with automatic security updates.
